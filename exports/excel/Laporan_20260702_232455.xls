@@ -1,0 +1,96 @@
+
+<h2>LAPORAN TRANSAKSI PENJUALAN</h2>
+<p>Tanggal Cetak: 02-07-2026 23:24</p>
+
+<table border="1">
+<tr>
+    <th>No</th>
+    <th>No Transaksi</th>
+    <th>Pelanggan</th>
+    <th>Produk</th>
+    <th>Qty</th>
+    <th>Harga</th>
+    <th>Total</th>
+    <th>Pembayaran</th>
+    <th>Tanggal</th>
+    <th>Status</th>
+</tr>
+
+
+<tr>
+    <td>1</td>
+    <td>TRX389</td>
+    <td>Loak</td>
+    <td>Mouse Wireless</td>
+    <td>3</td>
+    <td>275000.00</td>
+    <td>825000.00</td>
+    <td>E-Wallet</td>
+    <td>2026-07-02</td>
+    <td>Berhasil</td>
+</tr>
+
+
+<tr>
+    <td>2</td>
+    <td>TRX388</td>
+    <td>Jake</td>
+    <td>Monitor 24 Inch</td>
+    <td>1</td>
+    <td>2850000.00</td>
+    <td>2850000.00</td>
+    <td>Tunai</td>
+    <td>2026-07-02</td>
+    <td>Berhasil</td>
+</tr>
+
+
+<tr>
+    <td>3</td>
+    <td>TRX387</td>
+    <td>Kiri</td>
+    <td>Headset Gaming</td>
+    <td>1</td>
+    <td>950000.00</td>
+    <td>950000.00</td>
+    <td>QRIS</td>
+    <td>2026-07-02</td>
+    <td>Berhasil</td>
+</tr>
+
+
+<tr>
+    <td>4</td>
+    <td>TRX386</td>
+    <td>Neteyam</td>
+    <td>Keyboard Mechanical</td>
+    <td>2</td>
+    <td>850000.00</td>
+    <td>1700000.00</td>
+    <td>Transfer Bank</td>
+    <td>2026-07-02</td>
+    <td>Berhasil</td>
+</tr>
+
+
+<tr>
+    <td>5</td>
+    <td>TRX385</td>
+    <td>Wafda Nazita</td>
+    <td>Laptop ASUS</td>
+    <td>1</td>
+    <td>7500000.00</td>
+    <td>7500000.00</td>
+    <td>Tunai</td>
+    <td>2026-07-02</td>
+    <td>Berhasil</td>
+</tr>
+
+
+<tr>
+    <td colspan="6"><b>Total</b></td>
+    <td colspan="4"><b>13825000</b></td>
+</tr>
+
+</table>
+
